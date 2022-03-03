@@ -1,0 +1,124 @@
+body {
+  padding: 2%;
+  padding-left: 3.5%;
+  padding-right: 2%;
+  padding-bottom: 1.5%;
+  background-color: #007cff;
+  background: linear-gradient(to right, #c300ff, #da244b9b, #00f7ff);
+}
+section {
+  background: white;
+  width: 1750px;
+  height: 850px;
+  border-width: 9px;
+  border-style: ridge;
+  border-color: #1db9c3;
+  font-size: 80px;
+  text-align: center;
+}
+
+.box {
+  width: 700px;
+  height: 90px;
+  margin: 0 auto;
+  display: flex;
+  text-align: center;
+  border-color: black;
+  border-radius: 0.5px;
+  border-style: solid;
+}
+
+header {
+  background-color: #ffe268;
+  padding-left: 100%;
+  margin: 0%;
+  height: 60px;
+  background: linear-gradient(to right, #ec008c, #fc6767);
+  border-style: ridge;
+  border-radius: 1px;
+  border-color: purple;
+}
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px;
+}
+.buttonheader {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  margin: 15px 3px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+}
+.buttonheader1 {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+  margin: 15px 3px;
+}
+.buttonheader2 {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+  margin: 15px 3px;
+}
+.buttonheader:hover {
+  background-color: #b1d0e0;
+  color: black;
+}
+.buttonheader1:hover {
+  background-color: #b1d0e0;
+  color: black;
+}
+.buttonheader2:hover {
+  background-color: #b1d0e0;
+  color: black;
+}
+a {
+  text-decoration: none;
+}
+h2 {
+  font-size: 46px;
+  border-style: dotted;
+  border-radius: 15px 50px 30px 5px;
+  border-color: blue;
+  padding: 2%;
+}
+.namecolor {
+  color: #fc2c55;
+}
+.cllg {
+  color: #6930c3;
+}

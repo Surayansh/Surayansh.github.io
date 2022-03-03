@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #c300ff, #da244b9b, #00f7ff);
+}
+header {
+  padding-top: 0%;
+  height: 60px;
+  background: linear-gradient(to right, #21daeb, #e6fc67);
+  text-align: right;
+  border: 2px solid white;
+}
+.buttonheader {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  margin: 15px 3px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+}
+.buttonheader1 {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+  margin: 15px 3px;
+}
+.buttonheader2 {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+  margin: 15px 3px;
+}
+.buttonheader:hover {
+  background-color: #eeedde;
+  color: black;
+}
+.buttonheader1:hover {
+  background-color: #eeedde;
+  color: black;
+}
+.buttonheader2:hover {
+  background-color: #eeedde;
+  color: black;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: 35px;
+}
+h2 {
+  background-color: #2a9d8f;
+  border: 5px solid black;
+  color: white;
+  width: 500px;
+  height: 50px;
+  font-size: 1.8em;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+h2:nth-of-type(2n) {
+  background-color: rgba(207, 34, 34, 0.4);
+}
+h2:nth-of-type(3n) {
+  background-color: orange;
+}
+h2:nth-of-type(4n) {
+  background-color: #2a9d8f;
+}
+h2:nth-of-type(5n) {
+  background-color: rgba(207, 34, 34, 0.4);
+}
+h2:nth-of-type(6n) {
+  background-color: orange;
+}
+h2:nth-of-type(7n) {
+  background-color: #2a9d8f;
+}
+h2:nth-of-type(8n) {
+  background-color: rgba(207, 34, 34, 0.4);
+}

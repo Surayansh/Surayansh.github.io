@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #dadb75, #64d6cd);
+}
+header {
+  padding-top: 0%;
+  height: 60px;
+  background: linear-gradient(to right, #21daeb, #e6fc67);
+  text-align: right;
+  border: 2px solid white;
+}
+.buttonheader {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  margin: 15px 3px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+}
+.buttonheader1 {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+  margin: 15px 3px;
+}
+.buttonheader2 {
+  background-color: white;
+  border: 1px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  width: 50px;
+  height: 20px;
+  margin: 15px 3px;
+}
+.buttonheader:hover {
+  background-color: #eeedde;
+  color: black;
+}
+.buttonheader1:hover {
+  background-color: #eeedde;
+  color: black;
+}
+.buttonheader2:hover {
+  background-color: #eeedde;
+  color: black;
+}
+
+section {
+  padding-top: 7%;
+  padding-left: 5%;
+}
+td {
+  font-size: 30px;
+  text-align: center;
+  background-color: white;
+}
+th {
+  font-size: 30px;
+  background-color: #04aa6d;
+}
+table {
+  border: 1px solid;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#table1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 95%;
+}
+
+#table1 td,
+#table1 th {
+  border: 1px solid #ddd;
+  padding: 15px;
+  font-size: 30px;
+}
+#table1 th {
+  color: white;
+}
+tr:hover {
+  background-color: #21daeb;
+}
